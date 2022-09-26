@@ -1,0 +1,42 @@
+print('yoo supie welcome to my quiz ')
+playing = input('do ya wanna play ')
+
+if playing != 'yes':
+    quit()
+
+print("lets begin!!!" )
+
+answer = input("do i know python ")
+if answer == 'yes':
+    print("Correct!")
+else:
+    print('Incorrect')
+
+answer = input("do i know lua a bit")
+if answer == "yes":
+    print("Correct!")
+else:
+    print("Incorrect")
+
+answer = input("is my fathers birthday in 26 september?" )
+if answer == "yes":
+    print("Correct!")
+else:
+    print("Incorrect")
+
+answer = input("did i draw sponge bob?" )
+if answer == "no":
+    print("Correct!")
+else:
+    print("Incorrect!")
+
+#question !
+
+answer = input("did i play mario yes/no?")
+if answer == "yes":
+    print("Correct!")
+else:
+    print("Incorrect!")
+
+answer = input(" do i like new wich are LOUD yes/no")
+if answer == "no":
