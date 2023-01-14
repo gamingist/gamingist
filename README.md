@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gamingist
 - 👀 I’m interested in coding in HTML, CSS and JS
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning DISCORD.JS
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me idk im new
 
